@@ -1,0 +1,33 @@
+.navbar{
+    background-color: rgb(216, 210, 210)!important;
+}
+.main{
+    background-image: url(img/background\ \(2\).jpg);
+    height: 42rem;
+    background-size: cover;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    text-shadow: 2px 2px 4px black;
+    margin-right: 10%;
+}
+.food{
+    padding: 10%;
+}
+.cards1{
+    display: flex;
+}
+.cards2{
+    display: flex;
+}
+#btn{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    height: 60%;
+}
+#nav2{
+    margin-top: 3%;
+}
